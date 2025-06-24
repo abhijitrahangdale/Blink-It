@@ -28,6 +28,7 @@ BUSINESS REQUIREMENT Chart's Requirements:-
 
 ## Key Metrics (KPIs)
 🔸The dashboard tracks the following main metrics: 
+
 🔸Total Sales: Total revenue from all sales ($1.20 million). 
 
 🔸Average Sales: Average revenue per sale ($141). 
@@ -40,14 +41,19 @@ BUSINESS REQUIREMENT Chart's Requirements:-
 🔸Filter Panel: Lets users filter data by outlet location, size, and item type. 
 
 🔸Outlet Growth Trend: Shows how outlets grew from 2012 to 2022. 
+
 🔸Fat Content Analysis: Breaks down sales into low-fat and regular-fat products. 
+
 🔸Item Type Distribution: Shows sales by product category. 
+
 🔸Outlet Size and Location Analysis**: Analyzes sales performance by outlet size and location tier. 
+
 🔸Outlet Type Comparison: Compares sales, items, ratings, and visibility across outlet types. 
 
  ## Key Finding 
   🔸Strong sales performance with over $1 million in total revenue. 
 Customers prefer low-fat products, showing a trend toward healthier choices. 
+
 🔸Top-selling categories: fruits, vegetables, and snacks. 
  Medium-sized outlets in Tier 3 locations are the most profitable. 
 Supermarkets have higher sales, while grocery stores have better item visibility. 
