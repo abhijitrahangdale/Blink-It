@@ -29,12 +29,16 @@ BUSINESS REQUIREMENT Chart's Requirements:-
 ## Key Metrics (KPIs)
 🔸The dashboard tracks the following main metrics: 
 🔸Total Sales: Total revenue from all sales ($1.20 million). 
+
 🔸Average Sales: Average revenue per sale ($141). 
+
 🔸Number of Items: Total items sold (8,523). 
+
 🔸Average Rating: Average customer rating (3.9 out of 5). 
 
 ## Features
 🔸Filter Panel: Lets users filter data by outlet location, size, and item type. 
+
 🔸Outlet Growth Trend: Shows how outlets grew from 2012 to 2022. 
 🔸Fat Content Analysis: Breaks down sales into low-fat and regular-fat products. 
 🔸Item Type Distribution: Shows sales by product category. 
