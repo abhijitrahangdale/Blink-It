@@ -25,3 +25,27 @@ BUSINESS REQUIREMENT Chart's Requirements:-
 2. Total Sales by Item Type: Objective: Identify the performance of different item types in terms of total sales. Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content. Chart Type: Bar Chart.
 3. Fat Content by Outlet for Total Sales: Objective: Compare total sales across different outlets segmented by fat content. Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content. Chart Type: Stacked Column Chart.
 4. Total Sales by Outlet Establishment:: Evaluate how the age or type of outlet establishment influences total sales. Objective Chart Type: Line Chart.
+
+## Key Metrics (KPIs)
+🔸The dashboard tracks the following main metrics: 
+🔸Total Sales: Total revenue from all sales ($1.20 million). 
+🔸Average Sales: Average revenue per sale ($141). 
+🔸Number of Items: Total items sold (8,523). 
+🔸Average Rating: Average customer rating (3.9 out of 5). 
+
+## Features
+🔸Filter Panel: Lets users filter data by outlet location, size, and item type. 
+🔸Outlet Growth Trend: Shows how outlets grew from 2012 to 2022. 
+🔸Fat Content Analysis: Breaks down sales into low-fat and regular-fat products. 
+🔸Item Type Distribution: Shows sales by product category. 
+🔸Outlet Size and Location Analysis**: Analyzes sales performance by outlet size and location tier. 
+🔸Outlet Type Comparison: Compares sales, items, ratings, and visibility across outlet types. 
+
+ ## Key Finding 
+  🔸Strong sales performance with over $1 million in total revenue. 
+Customers prefer low-fat products, showing a trend toward healthier choices. 
+🔸Top-selling categories: fruits, vegetables, and snacks. 
+ Medium-sized outlets in Tier 3 locations are the most profitable. 
+Supermarkets have higher sales, while grocery stores have better item visibility. 
+
+This Excel dashboard helps Blinkit understand its performance and make data-driven decisions for growth.
